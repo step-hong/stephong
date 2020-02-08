@@ -1,0 +1,77 @@
+/*Colors and fonts*/
+body {
+	background-color: #edf7fa;
+	font-family: Yuanti SC;
+	font-size:17 px;
+	letter-spacing:1px;
+}
+
+h1 {
+	font-family: Avenir;
+	font-weight: 100;
+	letter-spacing: 7px;
+	font-size: 30px;
+	text-transform: uppercase;
+	color:#010a43;
+}
+h2 {
+	color:#010a43;
+	text-transform:uppercase;
+}
+a {
+	text-decoration: none; 
+	color: navy;}
+a:hover {
+	color:black;
+}
+
+/* Custom desgin with class*/
+.container {
+	width:900px;
+	margin:40px auto;
+}
+.card-white{
+	background-color:#edf7fa;
+	text-align:center;
+}
+.img-circle {
+	border-radius: 50%;
+}
+
+.list-inline{
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display:inline;
+	padding:10px;
+}
+.list-inline i{
+	font-size:40px;
+
+
+}
+
+
+/* 
+.container {
+	width:700px;
+	margin: 40px auto;
+}
+
+.card-white{
+	background-color: #edf7fa;
+	padding: 40px;
+	box-shadow:0px 10px 30px rgba(0,0,0,0.1);
+	border-radius:4px;
+	margin:20px 0px;
+	text-align: center;
+}
+.img-circle{
+	border-radius: 50%;
+}*/
+
+/*<div style="
+		margin: 50px auto;
+		width:1000px;
+		"> */
